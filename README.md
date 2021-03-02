@@ -1,6 +1,6 @@
 # english-learning
 
-![](https://imgur.com/a/Ykf4kWN)
+![](https://i.imgur.com/W3WNYY4.png)
 
 ### Modules used
 
